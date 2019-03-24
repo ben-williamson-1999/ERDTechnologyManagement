@@ -48,7 +48,7 @@ CustomerID integer(10),
 CONSTRAINT CustomerOrderCustomerID_fk FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID),
 BranchID integer(10),
 CONSTRAINT CustomerOrderBranchID_fk FOREIGN KEY (BranchID) REFERENCES Branch(BranchID),
-OrderDate integer(10),
+OrderDate varchar(10),
 TotalOrderPrice integer(6)
 );
 
