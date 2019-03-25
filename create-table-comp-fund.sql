@@ -49,7 +49,7 @@ CONSTRAINT CustomerOrderCustomerID_fk FOREIGN KEY (CustomerID) REFERENCES Custom
 BranchID integer(10),
 CONSTRAINT CustomerOrderBranchID_fk FOREIGN KEY (BranchID) REFERENCES Branch(BranchID),
 OrderDate varchar(10),
-TotalOrderPrice integer(6)
+TotalOrderPrice float(8)
 );
 
 CREATE TABLE Supplier(
@@ -68,7 +68,7 @@ CONSTRAINT SupplierID_fk FOREIGN KEY (SupplierID) REFERENCES Supplier(SupplierID
 BranchID integer(10),
 CONSTRAINT BranchID_fk FOREIGN KEY (BranchID) REFERENCES Branch(BranchID),
 OrderDate varchar(10),
-TotalOrderPrice integer(6)
+TotalOrderPrice float(8)
 );
 
 CREATE TABLE SupplierOrderItem(
@@ -99,7 +99,7 @@ StockID integer(10),
 CONSTRAINT stockItem_StockID_pk PRIMARY KEY (StockID),
 SupplierID integer(10),
 CONSTRAINT stock_item_fk FOREIGN KEY (SupplierID) REFERENCES Supplier(SupplierID),
-Price integer(5),
+Price float(7),
 Name varchar(20),
 Quantity integer(10)
 );
