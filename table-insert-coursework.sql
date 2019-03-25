@@ -141,7 +141,7 @@ insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, B
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (39, 10, 50, 1, 4, '2018-09-08', 3275.97);
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (40, 16, 39, 23, 4, '2018-06-27', 3188.25);
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (41, 13, 49, 18, 2, '2018-07-22', 2149.45);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (42, 2, 48, 28, 2, '2019-01-27', 7106.17);
+insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (42, 2, 48, 28, 5, '2019-01-27', 7106.17);
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (43, 15, 1, 21, 1, '2019-03-10', 8356.45);
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (44, 21, 14, 32, 1, '2018-09-14', 4050.70);
 insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (45, 22, 42, 16, 5, '2018-06-08', 5283.19);
@@ -240,7 +240,7 @@ insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, Tot
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (36, 18, 3, '2018-09-20', 6490.48);
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (37, 13, 2, '2018-07-21', 8625.04);
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (38, 22, 3, '2018-07-17', 9470.71);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (39, 4, 2, '2019-02-14', 7802.82);
+insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (39, 4, 5, '2019-02-14', 7802.82);
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (40, 21, 2, '2018-06-09', 5293.79);
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (41, 4, 5, '2018-09-26', 6816.22);
 insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (42, 4, 3, '2018-04-25', 9826.16);
