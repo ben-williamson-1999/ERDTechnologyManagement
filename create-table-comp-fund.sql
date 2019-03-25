@@ -67,7 +67,7 @@ SupplierID integer(10),
 CONSTRAINT SupplierID_fk FOREIGN KEY (SupplierID) REFERENCES Supplier(SupplierID),
 BranchID integer(10),
 CONSTRAINT BranchID_fk FOREIGN KEY (BranchID) REFERENCES Branch(BranchID),
-OrderDate integer(10),
+OrderDate varchar(10),
 TotalOrderPrice integer(6)
 );
 
