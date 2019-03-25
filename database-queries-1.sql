@@ -1,0 +1,1 @@
+SELECT Name FROM employee WHERE branchID = 1 AND Name LIKE 'b%'
