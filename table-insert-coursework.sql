@@ -1,474 +1,484 @@
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (1, 'Mr', 'Jaye', 'Esser', 'jesser0@jugem.jp', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (2, 'Rev', 'Margalo', 'Nevinson', 'mnevinson1@unblog.fr', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (3, 'Mrs', 'Emelyne', 'Martynov', 'emartynov2@usda.gov', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (4, 'Mrs', 'Nissie', 'Burtonshaw', 'nburtonshaw3@businessweek.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (5, 'Mr', 'Marlee', 'Maly', 'mmaly4@4shared.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (6, 'Ms', 'Hatty', 'Poulter', 'hpoulter5@nationalgeographic.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (7, 'Mrs', 'Koralle', 'Bard', 'kbard6@ibm.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (8, 'Mr', 'Brennen', 'Smallbone', 'bsmallbone7@artisteer.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (9, 'Mrs', 'Scotti', 'Perotti', 'sperotti8@opera.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (10, 'Mr', 'Tracie', 'Pioch', 'tpioch9@people.com.cn', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (11, 'Mrs', 'Lexi', 'Stadden', 'lstaddena@nature.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (12, 'Rev', 'Kitti', 'Rembrandt', 'krembrandtb@freewebs.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (13, 'Mrs', 'Manolo', 'Iltchev', 'miltchevc@live.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (14, 'Mr', 'Darin', 'Deppe', 'ddepped@i2i.jp', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (15, 'Mr', 'Barron', 'Portchmouth', 'bportchmouthe@alibaba.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (16, 'Mr', 'Nicolis', 'Roffey', 'nroffeyf@google.de', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (17, 'Mrs', 'Carlota', 'Sapp', 'csappg@freewebs.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (18, 'Mr', 'Garrick', 'Noquet', 'gnoqueth@youtu.be', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (19, 'Mrs', 'Gregoire', 'Robinson', 'grobinsoni@unblog.fr', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (20, 'Dr', 'Randolf', 'Landor', 'rlandorj@hhs.gov', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (21, 'Mrs', 'Breanne', 'Tilzey', 'btilzeyk@ezinearticles.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (22, 'Rev', 'Tremain', 'Fogden', 'tfogdenl@angelfire.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (23, 'Mr', 'Engelbert', 'Dafter', 'edafterm@thetimes.co.uk', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (24, 'Rev', 'Wandis', 'Morson', 'wmorsonn@edublogs.org', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (25, 'Dr', 'Wilmar', 'Kemell', 'wkemello@time.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (26, 'Dr', 'Amargo', 'Cochet', 'acochetp@meetup.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (27, 'Mr', 'Aldo', 'Thomasson', 'athomassonq@sbwire.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (28, 'Ms', 'Moira', 'O''Sheils', 'mosheilsr@usgs.gov', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (29, 'Mrs', 'Evelyn', 'Bracknall', 'ebracknalls@google.pl', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (30, 'Mrs', 'Ivie', 'Baytrop', 'ibaytropt@parallels.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (31, 'Rev', 'Ham', 'Cainey', 'hcaineyu@skype.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (32, 'Mr', 'Indira', 'Blaycock', 'iblaycockv@upenn.edu', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (33, 'Mr', 'Boone', 'Goodright', 'bgoodrightw@squarespace.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (34, 'Ms', 'Arty', 'Skippon', 'askipponx@wsj.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (35, 'Mr', 'Normand', 'Bathoe', 'nbathoey@photobucket.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (36, 'Dr', 'Lissie', 'Arpe', 'larpez@dyndns.org', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (37, 'Mr', 'Gilligan', 'Bricknell', 'gbricknell10@buzzfeed.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (38, 'Ms', 'Cordelia', 'Fine', 'cfine11@telegraph.co.uk', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (39, 'Dr', 'Lauryn', 'Davison', 'ldavison12@gmpg.org', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (40, 'Rev', 'Bernard', 'Clurow', 'bclurow13@gravatar.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (41, 'Ms', 'Carrol', 'Barnwall', 'cbarnwall14@shinystat.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (42, 'Mr', 'Dorthea', 'Glyne', 'dglyne15@opensource.org', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (43, 'Mr', 'Chloe', 'Starsmore', 'cstarsmore16@illinois.edu', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (44, 'Mr', 'Nara', 'Feifer', 'nfeifer17@si.edu', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (45, 'Ms', 'Agna', 'Emloch', 'aemloch18@instagram.com', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (46, 'Dr', 'Alaric', 'Rozzier', 'arozzier19@dailymotion.com', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (47, 'Mr', 'Malynda', 'Sleaford', 'msleaford1a@cdc.gov', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (48, 'Mr', 'Francene', 'Avison', 'favison1b@utexas.edu', '123');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (49, 'Rev', 'Luciano', 'Helversen', 'lhelversen1c@cmu.edu', '456');
-insert into Customer (CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) values (50, 'Mrs', 'Lorena', 'Ezzell', 'lezzell1d@shop-pro.jp', '123');
+INSERT INTO Customer(CustomerID, Title, FirstName, LastName, ContactEmail, ContactNumber) VALUES
+(1, 'Mr', 'Jaye', 'Esser', 'jesser0@jugem.jp', '456'),
+(2, 'Rev', 'Margalo', 'Nevinson', 'mnevinson1@unblog.fr', '123'),
+(3, 'Mrs', 'Emelyne', 'Martynov', 'emartynov2@usda.gov', '123'),
+(4, 'Mrs', 'Nissie', 'Burtonshaw', 'nburtonshaw3@businessweek.com', '123'),
+(5, 'Mr', 'Marlee', 'Maly', 'mmaly4@4shared.com', '123'),
+(6, 'Ms', 'Hatty', 'Poulter', 'hpoulter5@nationalgeographic.com', '123'),
+(7, 'Mrs', 'Koralle', 'Bard', 'kbard6@ibm.com', '123'),
+(8, 'Mr', 'Brennen', 'Smallbone', 'bsmallbone7@artisteer.com', '456'),
+(9, 'Mrs', 'Scotti', 'Perotti', 'sperotti8@opera.com', '456'),
+(10, 'Mr', 'Tracie', 'Pioch', 'tpioch9@people.com.cn', '456'),
+(11, 'Mrs', 'Lexi', 'Stadden', 'lstaddena@nature.com', '123'),
+(12, 'Rev', 'Kitti', 'Rembrandt', 'krembrandtb@freewebs.com', '123'),
+(13, 'Mrs', 'Manolo', 'Iltchev', 'miltchevc@live.com', '456'),
+(14, 'Mr', 'Darin', 'Deppe', 'ddepped@i2i.jp', '456'),
+(15, 'Mr', 'Barron', 'Portchmouth', 'bportchmouthe@alibaba.com', '456'),
+(16, 'Mr', 'Nicolis', 'Roffey', 'nroffeyf@google.de', '456'),
+(17, 'Mrs', 'Carlota', 'Sapp', 'csappg@freewebs.com', '123'),
+(18, 'Mr', 'Garrick', 'Noquet', 'gnoqueth@youtu.be', '456'),
+(19, 'Mrs', 'Gregoire', 'Robinson', 'grobinsoni@unblog.fr', '456'),
+(20, 'Dr', 'Randolf', 'Landor', 'rlandorj@hhs.gov', '456'),
+(21, 'Mrs', 'Breanne', 'Tilzey', 'btilzeyk@ezinearticles.com', '123'),
+(22, 'Rev', 'Tremain', 'Fogden', 'tfogdenl@angelfire.com', '456'),
+(23, 'Mr', 'Engelbert', 'Dafter', 'edafterm@thetimes.co.uk', '456'),
+(24, 'Rev', 'Wandis', 'Morson', 'wmorsonn@edublogs.org', '123'),
+(25, 'Dr', 'Wilmar', 'Kemell', 'wkemello@time.com', '456'),
+(26, 'Dr', 'Amargo', 'Cochet', 'acochetp@meetup.com', '123'),
+(27, 'Mr', 'Aldo', 'Thomasson', 'athomassonq@sbwire.com', '456'),
+(28, 'Ms', 'Moira', 'O''Sheils', 'mosheilsr@usgs.gov', '123'),
+(29, 'Mrs', 'Evelyn', 'Bracknall', 'ebracknalls@google.pl', '123'),
+(30, 'Mrs', 'Ivie', 'Baytrop', 'ibaytropt@parallels.com', '123'),
+(31, 'Rev', 'Ham', 'Cainey', 'hcaineyu@skype.com', '456'),
+(32, 'Mr', 'Indira', 'Blaycock', 'iblaycockv@upenn.edu', '123'),
+(33, 'Mr', 'Boone', 'Goodright', 'bgoodrightw@squarespace.com', '456'),
+(34, 'Ms', 'Arty', 'Skippon', 'askipponx@wsj.com', '456'),
+(35, 'Mr', 'Normand', 'Bathoe', 'nbathoey@photobucket.com', '456'),
+(36, 'Dr', 'Lissie', 'Arpe', 'larpez@dyndns.org', '123'),
+(37, 'Mr', 'Gilligan', 'Bricknell', 'gbricknell10@buzzfeed.com', '123'),
+(38, 'Ms', 'Cordelia', 'Fine', 'cfine11@telegraph.co.uk', '123'),
+(39, 'Dr', 'Lauryn', 'Davison', 'ldavison12@gmpg.org', '123'),
+(40, 'Rev', 'Bernard', 'Clurow', 'bclurow13@gravatar.com', '456'),
+(41, 'Ms', 'Carrol', 'Barnwall', 'cbarnwall14@shinystat.com', '456'),
+(42, 'Mr', 'Dorthea', 'Glyne', 'dglyne15@opensource.org', '123'),
+(43, 'Mr', 'Chloe', 'Starsmore', 'cstarsmore16@illinois.edu', '123'),
+(44, 'Mr', 'Nara', 'Feifer', 'nfeifer17@si.edu', '123'),
+(45, 'Ms', 'Agna', 'Emloch', 'aemloch18@instagram.com', '123'),
+(46, 'Dr', 'Alaric', 'Rozzier', 'arozzier19@dailymotion.com', '456'),
+(47, 'Mr', 'Malynda', 'Sleaford', 'msleaford1a@cdc.gov', '123'),
+(48, 'Mr', 'Francene', 'Avison', 'favison1b@utexas.edu', '123'),
+(49, 'Rev', 'Luciano', 'Helversen', 'lhelversen1c@cmu.edu', '456'),
+(50, 'Mrs', 'Lorena', 'Ezzell', 'lezzell1d@shop-pro.jp', '123');
 
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (1, 1, 'a');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (2, 2, 'g');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (3, 3, 'v');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (4, 4, 'q');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (5, 5, 's');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (6, 6, 'l');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (7, 7, 'g');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (8, 8, 'm');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (9, 9, 'v');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (10, 10, 'a');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (11, 11, 'f');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (12, 12, 'f');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (13, 13, 'u');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (14, 14, 'o');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (15, 15, 'n');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (16, 16, 'w');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (17, 17, 'w');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (18, 18, 'i');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (19, 19, 'i');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (20, 20, 'j');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (21, 21, 'u');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (22, 22, 'h');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (23, 23, 'i');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (24, 24, 'o');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (25, 25, 'q');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (26, 26, 'v');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (27, 27, 'b');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (28, 28, 'r');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (29, 29, 'v');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (30, 30, 'x');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (31, 31, 'z');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (32, 32, 'z');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (33, 33, 'e');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (34, 34, 'm');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (35, 35, 'u');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (36, 36, 'd');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (37, 37, 'f');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (38, 38, 'j');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (39, 39, 'h');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (40, 40, 'x');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (41, 41, 'l');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (42, 42, 'q');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (43, 43, 'l');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (44, 44, 'b');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (45, 45, 'b');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (46, 46, 'h');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (47, 47, 'f');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (48, 48, 't');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (49, 49, 'm');
-insert into CustomerPaymentDetails (PaymentID, CustomerID, PaymentType) values (50, 50, 'w');
+INSERT INTO CustomerPaymentDetails(PaymentID, CustomerID, PaymentType) VALUES
+(1, 1, 'a'),
+(2, 2, 'g'),
+(3, 3, 'v'),
+(4, 4, 'q'),
+(5, 5, 's'),
+(6, 6, 'l'),
+(7, 7, 'g'),
+(8, 8, 'm'),
+(9, 9, 'v'),
+(10, 10, 'a'),
+(11, 11, 'f'),
+(12, 12, 'f'),
+(13, 13, 'u'),
+(14, 14, 'o'),
+(15, 15, 'n'),
+(16, 16, 'w'),
+(17, 17, 'w'),
+(18, 18, 'i'),
+(19, 19, 'i'),
+(20, 20, 'j'),
+(21, 21, 'u'),
+(22, 22, 'h'),
+(23, 23, 'i'),
+(24, 24, 'o'),
+(25, 25, 'q'),
+(26, 26, 'v'),
+(27, 27, 'b'),
+(28, 28, 'r'),
+(29, 29, 'v'),
+(30, 30, 'x'),
+(31, 31, 'z'),
+(32, 32, 'z'),
+(33, 33, 'e'),
+(34, 34, 'm'),
+(35, 35, 'u'),
+(36, 36, 'd'),
+(37, 37, 'f'),
+(38, 38, 'j'),
+(39, 39, 'h'),
+(40, 40, 'x'),
+(41, 41, 'l'),
+(42, 42, 'q'),
+(43, 43, 'l'),
+(44, 44, 'b'),
+(45, 45, 'b'),
+(46, 46, 'h'),
+(47, 47, 'f'),
+(48, 48, 't'),
+(49, 49, 'm'),
+(50, 50, 'w');
 
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (1, 19, 5, 42, 5, '2018-05-04', 8909.06);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (2, 26, 48, 21, 3, '2018-10-19', 1434.82);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (3, 2, 37, 4, 4, '2018-08-08', 9073.53);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (4, 23, 43, 28, 2, '2019-03-12', 1236.36);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (5, 20, 21, 12, 2, '2018-11-28', 5.73);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (6, 24, 37, 1, 2, '2019-01-13', 8075.56);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (7, 18, 40, 37, 3, '2018-11-24', 1477.61);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (8, 27, 1, 3, 2, '2018-10-18', 5775.60);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (9, 25, 25, 20, 3, '2018-10-08', 4608.75);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (10, 13, 19, 49, 2, '2018-05-29', 8046.02);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (11, 28, 12, 34, 2, '2018-04-28', 2436.70);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (12, 21, 23, 7, 2, '2018-07-20', 3826.94);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (13, 1, 18, 21, 4, '2018-08-02', 4917.99);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (14, 24, 45, 32, 3, '2018-04-21', 6262.70);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (15, 5, 2, 20, 3, '2018-07-03', 7374.76);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (16, 13, 21, 13, 4, '2018-07-22', 1412.33);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (17, 22, 31, 38, 5, '2018-07-01', 3391.49);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (18, 18, 10, 23, 2, '2019-02-05', 9202.48);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (19, 30, 3, 30, 4, '2018-12-10', 9876.84);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (20, 1, 26, 34, 1, '2018-09-11', 6512.58);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (21, 6, 39, 33, 4, '2018-04-20', 1063.80);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (22, 29, 11, 48, 4, '2018-08-25', 3610.34);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (23, 25, 11, 38, 5, '2018-12-25', 1910.34);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (24, 13, 42, 12, 4, '2018-11-06', 8845.01);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (25, 21, 46, 21, 3, '2018-09-29', 5617.40);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (26, 14, 34, 48, 3, '2018-09-12', 1225.03);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (27, 18, 4, 19, 3, '2018-12-12', 2845.53);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (28, 30, 26, 8, 3, '2018-08-02', 243.95);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (29, 1, 38, 8, 4, '2019-03-23', 2249.31);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (30, 4, 41, 19, 2, '2018-12-19', 1573.64);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (31, 28, 15, 43, 1, '2019-02-17', 1430.63);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (32, 3, 40, 42, 5, '2018-05-03', 3963.63);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (33, 10, 11, 6, 4, '2018-09-14', 4941.28);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (34, 3, 49, 28, 4, '2018-06-05', 8362.66);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (35, 30, 41, 5, 3, '2018-07-22', 6652.65);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (36, 6, 48, 28, 1, '2018-05-01', 9037.93);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (37, 30, 23, 45, 1, '2018-05-23', 2486.50);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (38, 7, 27, 2, 5, '2018-07-31', 1189.49);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (39, 10, 50, 1, 4, '2018-09-08', 3275.97);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (40, 16, 39, 23, 4, '2018-06-27', 3188.25);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (41, 13, 49, 18, 2, '2018-07-22', 2149.45);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (42, 2, 48, 28, 5, '2019-01-27', 7106.17);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (43, 15, 1, 21, 1, '2019-03-10', 8356.45);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (44, 21, 14, 32, 1, '2018-09-14', 4050.70);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (45, 22, 42, 16, 5, '2018-06-08', 5283.19);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (46, 1, 12, 13, 3, '2019-02-01', 9569.83);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (47, 30, 49, 46, 5, '2018-07-12', 2294.11);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (48, 11, 24, 10, 5, '2018-12-02', 9711.65);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (49, 24, 28, 4, 3, '2018-11-14', 6900.91);
-insert into CustomerOrder (CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) values (50, 15, 30, 39, 4, '2019-02-14', 5307.54);
+INSERT INTO CustomerOrder(CustomerOrderID, employeeId, PaymentID, CustomerID, BranchID, OrderDate, TotalOrderPrice) VALUES
+(1, 19, 5, 42, 5, '2018-05-04', 8909.06),
+(2, 26, 48, 21, 3, '2018-10-19', 1434.82),
+(3, 2, 37, 4, 4, '2018-08-08', 9073.53),
+(4, 23, 43, 28, 2, '2019-03-12', 1236.36),
+(5, 20, 21, 12, 2, '2018-11-28', 5.73),
+(6, 24, 37, 1, 2, '2019-01-13', 8075.56),
+(7, 18, 40, 37, 3, '2018-11-24', 1477.61),
+(8, 27, 1, 3, 2, '2018-10-18', 5775.60),
+(9, 25, 25, 20, 3, '2018-10-08', 4608.75),
+(10, 13, 19, 49, 2, '2018-05-29', 8046.02),
+(11, 28, 12, 34, 2, '2018-04-28', 2436.70),
+(12, 21, 23, 7, 2, '2018-07-20', 3826.94),
+(13, 1, 18, 21, 4, '2018-08-02', 4917.99),
+(14, 24, 45, 32, 3, '2018-04-21', 6262.70),
+(15, 5, 2, 20, 3, '2018-07-03', 7374.76),
+(16, 13, 21, 13, 4, '2018-07-22', 1412.33),
+(17, 22, 31, 38, 5, '2018-07-01', 3391.49),
+(18, 18, 10, 23, 2, '2019-02-05', 9202.48),
+(19, 30, 3, 30, 4, '2018-12-10', 9876.84),
+(20, 1, 26, 34, 1, '2018-09-11', 6512.58),
+(21, 6, 39, 33, 4, '2018-04-20', 1063.80),
+(22, 29, 11, 48, 4, '2018-08-25', 3610.34),
+(23, 25, 11, 38, 5, '2018-12-25', 1910.34),
+(24, 13, 42, 12, 4, '2018-11-06', 8845.01),
+(25, 21, 46, 21, 3, '2018-09-29', 5617.40),
+(26, 14, 34, 48, 3, '2018-09-12', 1225.03),
+(27, 18, 4, 19, 3, '2018-12-12', 2845.53),
+(28, 30, 26, 8, 3, '2018-08-02', 243.95),
+(29, 1, 38, 8, 4, '2019-03-23', 2249.31),
+(30, 4, 41, 19, 2, '2018-12-19', 1573.64),
+(31, 28, 15, 43, 1, '2019-02-17', 1430.63),
+(32, 3, 40, 42, 5, '2018-05-03', 3963.63),
+(33, 10, 11, 6, 4, '2018-09-14', 4941.28),
+(34, 3, 49, 28, 4, '2018-06-05', 8362.66),
+(35, 30, 41, 5, 3, '2018-07-22', 6652.65),
+(36, 6, 48, 28, 1, '2018-05-01', 9037.93),
+(37, 30, 23, 45, 1, '2018-05-23', 2486.50),
+(38, 7, 27, 2, 5, '2018-07-31', 1189.49),
+(39, 10, 50, 1, 4, '2018-09-08', 3275.97),
+(40, 16, 39, 23, 4, '2018-06-27', 3188.25),
+(41, 13, 49, 18, 2, '2018-07-22', 2149.45),
+(42, 2, 48, 28, 5, '2019-01-27', 7106.17),
+(43, 15, 1, 21, 1, '2019-03-10', 8356.45),
+(44, 21, 14, 32, 1, '2018-09-14', 4050.70),
+(45, 22, 42, 16, 5, '2018-06-08', 5283.19),
+(46, 1, 12, 13, 3, '2019-02-01', 9569.83),
+(47, 30, 49, 46, 5, '2018-07-12', 2294.11),
+(48, 11, 24, 10, 5, '2018-12-02', 9711.65),
+(49, 24, 28, 4, 3, '2018-11-14', 6900.91),
+(50, 15, 30, 39, 4, '2019-02-14', 5307.54);
 
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (1, 1, 13);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (2, 2, 19);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (3, 3, 11);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (4, 4, 2);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (5, 5, 2);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (6, 6, 9);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (7, 7, 13);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (8, 8, 1);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (9, 9, 7);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (10, 10, 20);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (11, 11, 12);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (12, 12, 7);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (13, 13, 1);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (14, 14, 12);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (15, 15, 1);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (16, 16, 19);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (17, 17, 15);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (18, 18, 18);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (19, 19, 16);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (20, 20, 16);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (21, 21, 18);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (22, 22, 17);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (23, 23, 11);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (24, 24, 11);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (25, 25, 5);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (26, 26, 4);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (27, 27, 6);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (28, 28, 7);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (29, 29, 3);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (30, 30, 6);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (31, 31, 7);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (32, 32, 9);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (33, 33, 6);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (34, 34, 5);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (35, 35, 20);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (36, 36, 17);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (37, 37, 15);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (38, 38, 8);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (39, 39, 4);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (40, 40, 18);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (41, 41, 13);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (42, 42, 4);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (43, 43, 12);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (44, 44, 1);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (45, 45, 19);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (46, 46, 12);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (47, 47, 6);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (48, 48, 20);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (49, 49, 10);
-insert into CustomerOrderItem (StockID, CustomerOrderID, Quantity) values (50, 50, 1);
+INSERT INTO CustomerOrderItem(StockID, CustomerOrderID, Quantity) VALUES
+(1, 1, 13),
+(2, 2, 19),
+(3, 3, 11),
+(4, 4, 2),
+(5, 5, 2),
+(6, 6, 9),
+(7, 7, 13),
+(8, 8, 1),
+(9, 9, 7),
+(10, 10, 20),
+(11, 11, 12),
+(12, 12, 7),
+(13, 13, 1),
+(14, 14, 12),
+(15, 15, 1),
+(16, 16, 19),
+(17, 17, 15),
+(18, 18, 18),
+(19, 19, 16),
+(20, 20, 16),
+(21, 21, 18),
+(22, 22, 17),
+(23, 23, 11),
+(24, 24, 11),
+(25, 25, 5),
+(26, 26, 4),
+(27, 27, 6),
+(28, 28, 7),
+(29, 29, 3),
+(30, 30, 6),
+(31, 31, 7),
+(32, 32, 9),
+(33, 33, 6),
+(34, 34, 5),
+(35, 35, 20),
+(36, 36, 17),
+(37, 37, 15),
+(38, 38, 8),
+(39, 39, 4),
+(40, 40, 18),
+(41, 41, 13),
+(42, 42, 4),
+(43, 43, 12),
+(44, 44, 1),
+(45, 45, 19),
+(46, 46, 12),
+(47, 47, 6),
+(48, 48, 20),
+(49, 49, 10),
+(50, 50, 1);
 
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (1, 26, 1, '2018-06-05', 5582.18);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (2, 20, 3, '2018-11-06', 8811.34);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (3, 24, 4, '2019-01-16', 1043.23);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (4, 2, 5, '2018-11-04', 3670.61);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (5, 7, 2, '2018-12-04', 8607.71);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (6, 5, 1, '2018-08-15', 2250.8);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (7, 25, 1, '2019-03-06', 9810.62);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (8, 12, 4, '2018-10-08', 1230.81);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (9, 34, 5, '2018-12-22', 9272.13);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (10, 9, 2, '2018-11-28', 2337.83);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (11, 17, 1, '2018-12-13', 9796.75);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (12, 8, 5, '2018-06-22', 9508.03);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (13, 11, 4, '2018-05-26', 111.43);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (14, 5, 3, '2019-03-19', 4811.32);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (15, 9, 5, '2018-07-21', 1587.02);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (16, 6, 2, '2018-05-08', 1559.1);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (17, 17, 2, '2019-02-15', 8363.88);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (18, 13, 4, '2018-10-07', 4984.2);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (19, 26, 4, '2018-12-29', 2284.87);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (20, 6, 2, '2018-11-28', 7237.23);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (21, 20, 2, '2018-08-08', 3619.84);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (22, 18, 1, '2018-11-16', 1627.08);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (23, 5, 2, '2018-08-05', 5802.52);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (24, 20, 1, '2018-04-11', 5835.63);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (25, 1, 5, '2018-12-13', 4786.44);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (26, 7, 1, '2018-04-10', 6952.58);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (27, 26, 1, '2018-09-21', 8602.95);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (28, 3, 3, '2018-09-21', 1382.85);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (29, 27, 4, '2018-05-17', 9711.7);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (30, 12, 4, '2018-08-04', 492.0);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (31, 28, 1, '2018-08-27', 3249.14);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (32, 30, 1, '2018-08-20', 3121.56);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (33, 30, 3, '2018-12-21', 5078.76);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (34, 23, 5, '2018-06-12', 8582.03);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (35, 16, 4, '2018-07-31', 8899.53);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (36, 18, 3, '2018-09-20', 6490.48);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (37, 13, 2, '2018-07-21', 8625.04);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (38, 22, 3, '2018-07-17', 9470.71);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (39, 4, 5, '2019-02-14', 7802.82);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (40, 21, 2, '2018-06-09', 5293.79);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (41, 4, 5, '2018-09-26', 6816.22);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (42, 4, 3, '2018-04-25', 9826.16);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (43, 6, 4, '2018-11-04', 8790.33);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (44, 6, 5, '2018-06-06', 4815.51);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (45, 28, 5, '2019-01-12', 3556.6);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (46, 6, 2, '2018-05-02', 8736.29);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (47, 20, 1, '2018-09-21', 6766.0);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (48, 6, 1, '2018-07-10', 9905.55);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (49, 24, 3, '2018-07-07', 2394.05);
-insert into SupplierOrder (SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) values (50, 15, 3, '2019-01-08', 4336.55);
+INSERT INTO SupplierOrder(SupplierOrderID, SupplierID, BranchID, OrderDate, TotalOrderPrice) VALUES 
+(1, 26, 1, '2018-06-05', 5582.18),
+(2, 20, 3, '2018-11-06', 8811.34),
+(3, 24, 4, '2019-01-16', 1043.23),
+(4, 2, 5, '2018-11-04', 3670.61),
+(5, 7, 2, '2018-12-04', 8607.71),
+(6, 5, 1, '2018-08-15', 2250.8),
+(7, 25, 1, '2019-03-06', 9810.62),
+(8, 12, 4, '2018-10-08', 1230.81),
+(9, 34, 5, '2018-12-22', 9272.13),
+(10, 9, 2, '2018-11-28', 2337.83),
+(11, 17, 1, '2018-12-13', 9796.75),
+(12, 8, 5, '2018-06-22', 9508.03),
+(13, 11, 4, '2018-05-26', 111.43),
+(14, 5, 3, '2019-03-19', 4811.32),
+(15, 9, 5, '2018-07-21', 1587.02),
+(16, 6, 2, '2018-05-08', 1559.1),
+(17, 17, 2, '2019-02-15', 8363.88),
+(18, 13, 4, '2018-10-07', 4984.2),
+(19, 26, 4, '2018-12-29', 2284.87),
+(20, 6, 2, '2018-11-28', 7237.23),
+(21, 20, 2, '2018-08-08', 3619.84),
+(22, 18, 1, '2018-11-16', 1627.08),
+(23, 5, 2, '2018-08-05', 5802.52),
+(24, 20, 1, '2018-04-11', 5835.63),
+(25, 1, 5, '2018-12-13', 4786.44),
+(26, 7, 1, '2018-04-10', 6952.58),
+(27, 26, 1, '2018-09-21', 8602.95),
+(28, 3, 3, '2018-09-21', 1382.85),
+(29, 27, 4, '2018-05-17', 9711.7),
+(30, 12, 4, '2018-08-04', 492.0),
+(31, 28, 1, '2018-08-27', 3249.14),
+(32, 30, 1, '2018-08-20', 3121.56),
+(33, 30, 3, '2018-12-21', 5078.76),
+(34, 23, 5, '2018-06-12', 8582.03),
+(35, 16, 4, '2018-07-31', 8899.53),
+(36, 18, 3, '2018-09-20', 6490.48),
+(37, 13, 2, '2018-07-21', 8625.04),
+(38, 22, 3, '2018-07-17', 9470.71),
+(39, 4, 5, '2019-02-14', 7802.82),
+(40, 21, 2, '2018-06-09', 5293.79),
+(41, 4, 5, '2018-09-26', 6816.22),
+(42, 4, 3, '2018-04-25', 9826.16),
+(43, 6, 4, '2018-11-04', 8790.33),
+(44, 6, 5, '2018-06-06', 4815.51),
+(45, 28, 5, '2019-01-12', 3556.6),
+(46, 6, 2, '2018-05-02', 8736.29),
+(47, 20, 1, '2018-09-21', 6766.0),
+(48, 6, 1, '2018-07-10', 9905.55),
+(49, 24, 3, '2018-07-07', 2394.05),
+(50, 15, 3, '2019-01-08', 4336.55);
 
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (1, 'Dablist', 'kdono0@weebly.com', 84251185655);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (2, 'Tagopia', 'tsedger1@stumbleupon.com', 19956738377);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (3, 'Babbleblab', 'cortiger2@imageshack.us', 59736779605);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (4, 'Vipe', 'lcussen3@ucoz.ru', 59651781302);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (5, 'Devshare', 'eharcarse4@google.cn', 34778464276);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (6, 'Skinix', 'dmoss5@indiatimes.com', 30888215514);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (7, 'Teklist', 'ldowsett6@dmoz.org', 68539894136);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (8, 'Zoomzone', 'eminnis7@tuttocitta.it', 86840839318);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (9, 'Latz', 'rsheerman8@amazon.com', 76049843948);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (10, 'Yabox', 'arossander9@chron.com', 10966425294);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (11, 'Jatri', 'msoulsbya@prnewswire.com', 26264645489);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (12, 'Eamia', 'hgoneyb@myspace.com', 75394577200);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (13, 'Trudoo', 'rwillougheyc@spiegel.de', 41027785260);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (14, 'Vidoo', 'dpinord@amazon.co.jp', 23552011488);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (15, 'Omba', 'aabramse@dropbox.com', 70269098526);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (16, 'Jaxworks', 'dboulstridgef@freewebs.com', 66270964027);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (17, 'Zoozzy', 'pkiltieg@illinois.edu', 44517406946);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (18, 'Realfire', 'jepdellh@illinois.edu', 81775150902);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (19, 'Voomm', 'sspritti@freewebs.com', 49863666679);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (20, 'Gigashots', 'dlabromj@microsoft.com', 53686909953);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (21, 'Fatz', 'acasbournek@plala.or.jp', 18426270837);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (22, 'Fivespan', 'ageaneyl@lycos.com', 14908789697);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (23, 'Flipopia', 'sschimannm@cbsnews.com', 40488010636);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (24, 'Lazz', 'ystrobandn@princeton.edu', 30291637787);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (25, 'Edgeclub', 'bnevino@engadget.com', 61058512833);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (26, 'Realblab', 'ehanscomep@gmpg.org', 59240313375);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (27, 'Quimba', 'vbeardq@tinypic.com', 17695947247);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (28, 'Minyx', 'wenrightr@usa.gov', 36624383083);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (29, 'Plajo', 'tchallinors@simplemachines.org', 42187764052);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (30, 'Feedspan', 'amingottit@geocities.jp', 34139518891);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (31, 'Demivee', 'cflippiniu@oaic.gov.au', 27397775444);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (32, 'Babbleopia', 'rclaesensv@yelp.com', 86108591380);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (33, 'Aivee', 'jizattw@ed.gov', 81231036943);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (34, 'Browsetype', 'cbamlingx@pcworld.com', 56299322239);
-insert into Supplier (SupplierID, Name, ContactEmail, ContactTelephone) values (35, 'Riffpath', 'vashlingy@typepad.com', 63618909441);
+INSERT INTO Supplier(SupplierID, Name, ContactEmail, ContactTelephone) VALUES
+(1, 'Dablist', 'kdono0@weebly.com', 84251185655),
+(2, 'Tagopia', 'tsedger1@stumbleupon.com', 19956738377),
+(3, 'Babbleblab', 'cortiger2@imageshack.us', 59736779605),
+(4, 'Vipe', 'lcussen3@ucoz.ru', 59651781302),
+(5, 'Devshare', 'eharcarse4@google.cn', 34778464276),
+(6, 'Skinix', 'dmoss5@indiatimes.com', 30888215514),
+(7, 'Teklist', 'ldowsett6@dmoz.org', 68539894136),
+(8, 'Zoomzone', 'eminnis7@tuttocitta.it', 86840839318),
+(9, 'Latz', 'rsheerman8@amazon.com', 76049843948),
+(10, 'Yabox', 'arossander9@chron.com', 10966425294),
+(11, 'Jatri', 'msoulsbya@prnewswire.com', 26264645489),
+(12, 'Eamia', 'hgoneyb@myspace.com', 75394577200),
+(13, 'Trudoo', 'rwillougheyc@spiegel.de', 41027785260),
+(14, 'Vidoo', 'dpinord@amazon.co.jp', 23552011488),
+(15, 'Omba', 'aabramse@dropbox.com', 70269098526),
+(16, 'Jaxworks', 'dboulstridgef@freewebs.com', 66270964027),
+(17, 'Zoozzy', 'pkiltieg@illinois.edu', 44517406946),
+(18, 'Realfire', 'jepdellh@illinois.edu', 81775150902),
+(19, 'Voomm', 'sspritti@freewebs.com', 49863666679),
+(20, 'Gigashots', 'dlabromj@microsoft.com', 53686909953),
+(21, 'Fatz', 'acasbournek@plala.or.jp', 18426270837),
+(22, 'Fivespan', 'ageaneyl@lycos.com', 14908789697),
+(23, 'Flipopia', 'sschimannm@cbsnews.com', 40488010636),
+(24, 'Lazz', 'ystrobandn@princeton.edu', 30291637787),
+(25, 'Edgeclub', 'bnevino@engadget.com', 61058512833),
+(26, 'Realblab', 'ehanscomep@gmpg.org', 59240313375),
+(27, 'Quimba', 'vbeardq@tinypic.com', 17695947247),
+(28, 'Minyx', 'wenrightr@usa.gov', 36624383083),
+(29, 'Plajo', 'tchallinors@simplemachines.org', 42187764052),
+(30, 'Feedspan', 'amingottit@geocities.jp', 34139518891),
+(31, 'Demivee', 'cflippiniu@oaic.gov.au', 27397775444),
+(32, 'Babbleopia', 'rclaesensv@yelp.com', 86108591380),
+(33, 'Aivee', 'jizattw@ed.gov', 81231036943),
+(34, 'Browsetype', 'cbamlingx@pcworld.com', 56299322239),
+(35, 'Riffpath', 'vashlingy@typepad.com', 63618909441);
 
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (1, 14, 9);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (2, 10, 9);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (3, 17, 1);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (4, 2, 7);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (5, 20, 11);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (6, 34, 1);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (7, 4, 5);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (8, 14, 14);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (9, 50, 18);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (10, 33, 19);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (11, 29, 1);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (12, 43, 8);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (13, 42, 18);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (14, 15, 3);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (15, 18, 7);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (16, 44, 3);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (17, 16, 13);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (18, 38, 19);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (19, 34, 1);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (20, 36, 12);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (21, 50, 12);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (22, 15, 9);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (23, 14, 13);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (24, 14, 20);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (25, 5, 15);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (26, 46, 14);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (27, 23, 17);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (28, 32, 8);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (29, 16, 3);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (30, 14, 4);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (31, 40, 9);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (32, 2, 9);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (33, 22, 18);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (34, 34, 7);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (35, 8, 16);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (36, 43, 12);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (37, 17, 14);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (38, 23, 5);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (39, 9, 11);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (40, 42, 11);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (41, 19, 8);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (42, 6, 8);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (43, 34, 2);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (44, 37, 10);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (45, 19, 10);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (46, 33, 16);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (47, 40, 6);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (48, 2, 16);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (49, 27, 14);
-insert into SupplierOrderItem (StockID, SupplierOrderID, Quantity) values (50, 49, 11);
+INSERT INTO SupplierOrderItem(StockID, SupplierOrderID, Quantity) VALUES
+(1, 14, 9),
+(2, 10, 9),
+(3, 17, 1),
+(4, 2, 7),
+(5, 20, 11),
+(6, 34, 1),
+(7, 4, 5),
+(8, 14, 14),
+(9, 50, 18),
+(10, 33, 19),
+(11, 29, 1),
+(12, 43, 8),
+(13, 42, 18),
+(14, 15, 3),
+(15, 18, 7),
+(16, 44, 3),
+(17, 16, 13),
+(18, 38, 19),
+(19, 34, 1),
+(20, 36, 12),
+(21, 50, 12),
+(22, 15, 9),
+(23, 14, 13),
+(24, 14, 20),
+(25, 5, 15),
+(26, 46, 14),
+(27, 23, 17),
+(28, 32, 8),
+(29, 16, 3),
+(30, 14, 4),
+(31, 40, 9),
+(32, 2, 9),
+(33, 22, 18),
+(34, 34, 7),
+(35, 8, 16),
+(36, 43, 12),
+(37, 17, 14),
+(38, 23, 5),
+(39, 9, 11),
+(40, 42, 11),
+(41, 19, 8),
+(42, 6, 8),
+(43, 34, 2),
+(44, 37, 10),
+(45, 19, 10),
+(46, 33, 16),
+(47, 40, 6),
+(48, 2, 16),
+(49, 27, 14),
+(50, 49, 11);
 
-insert into Employee (EmployeeID, BranchID, Name) values (1, 1, 'Kippy Bligh');
-insert into Employee (EmployeeID, BranchID, Name) values (2, 3, 'Trudie Readhead');
-insert into Employee (EmployeeID, BranchID, Name) values (3, 3, 'Skyler Tuckley');
-insert into Employee (EmployeeID, BranchID, Name) values (4, 2, 'Isobel Poskitt');
-insert into Employee (EmployeeID, BranchID, Name) values (5, 2, 'Nadya Banfield');
-insert into Employee (EmployeeID, BranchID, Name) values (6, 3, 'Gale Portlock');
-insert into Employee (EmployeeID, BranchID, Name) values (7, 4, 'Ethelbert Titta');
-insert into Employee (EmployeeID, BranchID, Name) values (8, 3, 'Maggy Cathery');
-insert into Employee (EmployeeID, BranchID, Name) values (9, 3, 'Ethelda Timbs');
-insert into Employee (EmployeeID, BranchID, Name) values (10, 2, 'Lem Deegan');
-insert into Employee (EmployeeID, BranchID, Name) values (11, 4, 'Garrik Mosten');
-insert into Employee (EmployeeID, BranchID, Name) values (12, 4, 'Cliff Bowmer');
-insert into Employee (EmployeeID, BranchID, Name) values (13, 1, 'Laughton Castelletto');
-insert into Employee (EmployeeID, BranchID, Name) values (14, 3, 'Matteo Holston');
-insert into Employee (EmployeeID, BranchID, Name) values (15, 1, 'Tonya Grube');
-insert into Employee (EmployeeID, BranchID, Name) values (16, 3, 'Kass Roches');
-insert into Employee (EmployeeID, BranchID, Name) values (17, 2, 'Sharyl Constantinou');
-insert into Employee (EmployeeID, BranchID, Name) values (18, 5, 'Emyle Currom');
-insert into Employee (EmployeeID, BranchID, Name) values (19, 2, 'Niki Berndsen');
-insert into Employee (EmployeeID, BranchID, Name) values (20, 2, 'Gus Sondland');
-insert into Employee (EmployeeID, BranchID, Name) values (21, 1, 'Melisande Lovitt');
-insert into Employee (EmployeeID, BranchID, Name) values (22, 5, 'Tammie Growy');
-insert into Employee (EmployeeID, BranchID, Name) values (23, 5, 'Mercie Bemrose');
-insert into Employee (EmployeeID, BranchID, Name) values (24, 1, 'Buffy Gumary');
-insert into Employee (EmployeeID, BranchID, Name) values (25, 2, 'Astra Jankowski');
-insert into Employee (EmployeeID, BranchID, Name) values (26, 3, 'Ibby Huthart');
-insert into Employee (EmployeeID, BranchID, Name) values (27, 4, 'Flory Kerner');
-insert into Employee (EmployeeID, BranchID, Name) values (28, 4, 'Ole Diglin');
-insert into Employee (EmployeeID, BranchID, Name) values (29, 5, 'Idell Slatten');
-insert into Employee (EmployeeID, BranchID, Name) values (30, 1, 'Bosabelle Dankersley');
+INSERT INTO Employee(EmployeeID, BranchID, Name) VALUES
+(1, 1, 'Kippy Bligh'),
+(2, 3, 'Trudie Readhead'),
+(3, 3, 'Skyler Tuckley'),
+(4, 2, 'Isobel Poskitt'),
+(5, 2, 'Nadya Banfield'),
+(6, 3, 'Gale Portlock'),
+(7, 4, 'Ethelbert Titta'),
+(8, 3, 'Maggy Cathery'),
+(9, 3, 'Ethelda Timbs'),
+(10, 2, 'Lem Deegan'),
+(11, 4, 'Garrik Mosten'),
+(12, 4, 'Cliff Bowmer'),
+(13, 1, 'Laughton Castelletto'),
+(14, 3, 'Matteo Holston'),
+(15, 1, 'Tonya Grube'),
+(16, 3, 'Kass Roches'),
+(17, 2, 'Sharyl Constantinou'),
+(18, 5, 'Emyle Currom'),
+(19, 2, 'Niki Berndsen'),
+(20, 2, 'Gus Sondland'),
+(21, 1, 'Melisande Lovitt'),
+(22, 5, 'Tammie Growy'),
+(23, 5, 'Mercie Bemrose'),
+(24, 1, 'Buffy Gumary'),
+(25, 2, 'Astra Jankowski'),
+(26, 3, 'Ibby Huthart'),
+(27, 4, 'Flory Kerner'),
+(28, 4, 'Ole Diglin'),
+(29, 5, 'Idell Slatten'),
+(30, 1, 'Bosabelle Dankersley');
 
+INSERT INTO Branch(BranchID, AddressLineOne, AddressLineTwo, Postcode) VALUES
+(1, '1 baron road', 'london', 'sk1 2hd'),
+(2, '2 drew road', 'york', 'sk1 3pj'),
+(3, '3 ben avenue', 'cardiff', 'sk7 4pd'),
+(4, '4 tom close', 'manchester', 'sk4 2lm'),
+(5, '5 morgan court', 'newcastle', 'wa15 5bd');
 
-insert into Branch (BranchID, AddressLineOne, AddressLineTwo, Postcode) values (1, '1 baron road', 'london', 'sk1 2hd');
-insert into Branch (BranchID, AddressLineOne, AddressLineTwo, Postcode) values (2, '2 drew road', 'york', 'sk1 3pj');
-insert into Branch (BranchID, AddressLineOne, AddressLineTwo, Postcode) values (3, '3 ben avenue', 'cardiff', 'sk7 4pd');
-insert into Branch (BranchID, AddressLineOne, AddressLineTwo, Postcode) values (4, '4 tom close', 'manchester', 'sk4 2lm');
-insert into Branch (BranchID, AddressLineOne, AddressLineTwo, Postcode) values (5, '5 morgan court', 'newcastle', 'wa15 5bd');
+INSERT INTO StockItem(StockID, SupplierID, Price, Name, Quantity) VALUES
+(1, 20, 2486.60, 'Flowdesk', 17),
+(2, 18, 2442.43, 'Zamit', 11),
+(3, 14, 1620.16, 'Zontrax', 9),
+(4, 20, 2080.72, 'Tresom', 4),
+(5, 15, 213.33, 'Zamit', 19),
+(6, 13, 1503.23, 'Sub-Ex', 11),
+(7, 29, 1724.78, 'Pannier', 9),
+(8, 26, 529.90, 'Sonsing', 19),
+(9, 11, 2141.13, 'Konklux', 8),
+(10, 4, 510.60, 'Toughjoyfax', 11),
+(11, 8, 2048.68, 'Pannier', 11),
+(12, 12, 1447.14, 'Alphazap', 10),
+(13, 3, 1947.49, 'Stim', 2),
+(14, 31, 1211.88, 'Holdlamis', 2),
+(15, 4, 1794.33, 'Konklab', 12),
+(16, 28, 809.05, 'Rank', 8),
+(17, 5, 2369.28, 'Konklab', 15),
+(18, 26, 407.23, 'Transcof', 20),
+(19, 29, 658.80, 'Subin', 19),
+(20, 30, 1017.70, 'Solarbreeze', 12),
+(21, 9, 1346.27, 'Lotstring', 1),
+(22, 10, 1716.90, 'Holdlamis', 16),
+(23, 26, 1918.16, 'Pannier', 19),
+(24, 33, 1479.55, 'Flowdesk', 9),
+(25, 14, 1614.75, 'Andalax', 16),
+(26, 11, 1798.11, 'Cardguard', 11),
+(27, 3, 1357.69, 'Greenlam', 15),
+(28, 24, 2029.60, 'Alpha', 14),
+(29, 34, 454.87, 'Alpha', 3),
+(30, 2, 1565.30, 'Prodder', 12),
+(31, 17, 488.92, 'Domainer', 1),
+(32, 8, 673.39, 'Andalax', 17),
+(33, 28, 1990.72, 'Viva', 3),
+(34, 34, 1878.34, 'Tin', 1),
+(35, 12, 45.24, 'Hatity', 10),
+(36, 29, 2200.99, 'Zamit', 5),
+(37, 5, 1702.15, 'Tresom', 8),
+(38, 8, 1666.23, 'Y-find', 13),
+(39, 35, 1696.09, 'Stringtough', 9),
+(40, 16, 55.10, 'Span', 2),
+(41, 6, 40.79, 'Cardify', 17),
+(42, 5, 1197.90, 'Konklux', 13),
+(43, 17, 1200.71, 'Biodex', 10),
+(44, 13, 937.52, 'Y-find', 11),
+(45, 26, 2019.14, 'Voyatouch', 13),
+(46, 20, 2429.10, 'Trippledex', 12),
+(47, 17, 2151.47, 'Andalax', 6),
+(48, 27, 1791.97, 'Duobam', 20),
+(49, 26, 130.79, 'Transcof', 7),
+(50, 25, 1455.28, 'Bamity', 7);
 
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (1, 20, 2486.60, 'Flowdesk', 17);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (2, 18, 2442.43, 'Zamit', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (3, 14, 1620.16, 'Zontrax', 9);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (4, 20, 2080.72, 'Tresom', 4);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (5, 15, 213.33, 'Zamit', 19);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (6, 13, 1503.23, 'Sub-Ex', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (7, 29, 1724.78, 'Pannier', 9);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (8, 26, 529.90, 'Sonsing', 19);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (9, 11, 2141.13, 'Konklux', 8);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (10, 4, 510.60, 'Toughjoyfax', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (11, 8, 2048.68, 'Pannier', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (12, 12, 1447.14, 'Alphazap', 10);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (13, 3, 1947.49, 'Stim', 2);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (14, 31, 1211.88, 'Holdlamis', 2);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (15, 4, 1794.33, 'Konklab', 12);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (16, 28, 809.05, 'Rank', 8);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (17, 5, 2369.28, 'Konklab', 15);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (18, 26, 407.23, 'Transcof', 20);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (19, 29, 658.80, 'Subin', 19);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (20, 30, 1017.70, 'Solarbreeze', 12);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (21, 9, 1346.27, 'Lotstring', 1);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (22, 10, 1716.90, 'Holdlamis', 16);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (23, 26, 1918.16, 'Pannier', 19);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (24, 33, 1479.55, 'Flowdesk', 9);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (25, 14, 1614.75, 'Andalax', 16);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (26, 11, 1798.11, 'Cardguard', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (27, 3, 1357.69, 'Greenlam', 15);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (28, 24, 2029.60, 'Alpha', 14);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (29, 34, 454.87, 'Alpha', 3);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (30, 2, 1565.30, 'Prodder', 12);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (31, 17, 488.92, 'Domainer', 1);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (32, 8, 673.39, 'Andalax', 17);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (33, 28, 1990.72, 'Viva', 3);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (34, 34, 1878.34, 'Tin', 1);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (35, 12, 45.24, 'Hatity', 10);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (36, 29, 2200.99, 'Zamit', 5);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (37, 5, 1702.15, 'Tresom', 8);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (38, 8, 1666.23, 'Y-find', 13);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (39, 35, 1696.09, 'Stringtough', 9);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (40, 16, 55.10, 'Span', 2);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (41, 6, 40.79, 'Cardify', 17);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (42, 5, 1197.90, 'Konklux', 13);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (43, 17, 1200.71, 'Biodex', 10);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (44, 13, 937.52, 'Y-find', 11);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (45, 26, 2019.14, 'Voyatouch', 13);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (46, 20, 2429.10, 'Trippledex', 12);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (47, 17, 2151.47, 'Andalax', 6);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (48, 27, 1791.97, 'Duobam', 20);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (49, 26, 130.79, 'Transcof', 7);
-insert into StockItem (StockID, SupplierID, Price, Name, Quantity) values (50, 25, 1455.28, 'Bamity', 7);
-
-insert into BranchStockItem (BranchID, StockID) values (4, 17);
-insert into BranchStockItem (BranchID, StockID) values (5, 43);
-insert into BranchStockItem (BranchID, StockID) values (2, 32);
-insert into BranchStockItem (BranchID, StockID) values (5, 48);
-insert into BranchStockItem (BranchID, StockID) values (2, 27);
-insert into BranchStockItem (BranchID, StockID) values (5, 11);
-insert into BranchStockItem (BranchID, StockID) values (3, 22);
-insert into BranchStockItem (BranchID, StockID) values (1, 43);
-insert into BranchStockItem (BranchID, StockID) values (3, 5);
-insert into BranchStockItem (BranchID, StockID) values (1, 45);
-insert into BranchStockItem (BranchID, StockID) values (5, 15);
-insert into BranchStockItem (BranchID, StockID) values (2, 44);
-insert into BranchStockItem (BranchID, StockID) values (5, 35);
-insert into BranchStockItem (BranchID, StockID) values (1, 50);
-insert into BranchStockItem (BranchID, StockID) values (3, 24);
-insert into BranchStockItem (BranchID, StockID) values (4, 40);
-insert into BranchStockItem (BranchID, StockID) values (1, 38);
-insert into BranchStockItem (BranchID, StockID) values (4, 19);
-insert into BranchStockItem (BranchID, StockID) values (4, 26);
-insert into BranchStockItem (BranchID, StockID) values (3, 7);
-insert into BranchStockItem (BranchID, StockID) values (5, 20);
-insert into BranchStockItem (BranchID, StockID) values (5, 7);
-insert into BranchStockItem (BranchID, StockID) values (5, 29);
-insert into BranchStockItem (BranchID, StockID) values (5, 25);
-insert into BranchStockItem (BranchID, StockID) values (4, 42);
-insert into BranchStockItem (BranchID, StockID) values (5, 22);
-insert into BranchStockItem (BranchID, StockID) values (4, 39);
-insert into BranchStockItem (BranchID, StockID) values (1, 3);
-insert into BranchStockItem (BranchID, StockID) values (5, 23);
-insert into BranchStockItem (BranchID, StockID) values (1, 34);
-insert into BranchStockItem (BranchID, StockID) values (3, 18);
-insert into BranchStockItem (BranchID, StockID) values (3, 34);
-insert into BranchStockItem (BranchID, StockID) values (1, 5);
-insert into BranchStockItem (BranchID, StockID) values (1, 31);
-insert into BranchStockItem (BranchID, StockID) values (5, 47);
-insert into BranchStockItem (BranchID, StockID) values (5, 36);
-insert into BranchStockItem (BranchID, StockID) values (4, 3);
-insert into BranchStockItem (BranchID, StockID) values (4, 5);
-insert into BranchStockItem (BranchID, StockID) values (3, 21);
-insert into BranchStockItem (BranchID, StockID) values (5, 4);
-insert into BranchStockItem (BranchID, StockID) values (2, 39);
-insert into BranchStockItem (BranchID, StockID) values (5, 40);
-insert into BranchStockItem (BranchID, StockID) values (3, 49);
+INSERT INTO BranchStockItem(BranchID, StockID) VALUES 
+(4, 17),
+(5, 43),
+(2, 32),
+(5, 48),
+(2, 27),
+(5, 11),
+(3, 22),
+(1, 43),
+(3, 5),
+(1, 45),
+(5, 15),
+(2, 44),
+(5, 35),
+(1, 50),
+(3, 24),
+(4, 40),
+(1, 38),
+(4, 19),
+(4, 26),
+(3, 7),
+(5, 20),
+(5, 7),
+(5, 29),
+(5, 25),
+(4, 42),
+(5, 22),
+(4, 39),
+(1, 3),
+(5, 23),
+(1, 34),
+(3, 18),
+(3, 34),
+(1, 5),
+(1, 31),
+(5, 47),
+(5, 36),
+(4, 3),
+(4, 5),
+(3, 21),
+(5, 4),
+(2, 39),
+(5, 40),
+(3, 49);
